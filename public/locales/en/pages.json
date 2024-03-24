@@ -1,0 +1,10 @@
+{
+  "main_page": {
+    "title": "Vite + React",
+    "count_des": "You clicked {{count}} times",
+    "edit_des": "Edit",
+    "edit_file_des": "src/App.tsx",
+    "save_file_des": "and save to test HMR",
+    "content": "Click on the Vite and React logos to learn more"
+  }
+}
