@@ -1,6 +1,6 @@
 import { describe, it, expect } from "vitest";
 import { getEnvVariable } from "../utils";
-/* Generate test for getEnvVariable */
+
 describe("getEnvVariable", () => {
   it("should return all values of the environment variables correctly", () => {
     // Arrange
